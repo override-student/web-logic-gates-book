@@ -20,7 +20,7 @@ La web es **open source** y fue desarrollada por **Override**, con la colaboraci
 - **Puzzles de lógica**: rompecabezas basados en compuertas lógicas (AND, OR, XOR, etc.).
 - **Sistema de progresión**: Supera desafíos cada vez más complejos a medida que te acercas al tesoro final.
 - **Diseño visual atractivo**: Una interfaz moderna y amigable creada con **javascript native**.
-- **Versión app**: Accede a una versión complementaria del juego en la app, extendiendo la experiencia educativa, puedes descargarla por esta misma web con la url [text](https://logic-gates-book.web.app/) .
+- **Versión app**: Accede a una versión complementaria del juego en la app, extendiendo la experiencia educativa, puedes descargarla por esta misma web con la url [logiBook](https://logic-gates-book.web.app/) .
 
 ---
 
