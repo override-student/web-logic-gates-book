@@ -1,0 +1,43 @@
+.flipped #led,
+.flipped #ledOr,
+.flipped #ledOr2,
+.flipped #ledAnd,
+.flipped #ledAnd2,
+.flipped #ledXor {
+  visibility: hidden;
+}
+
+.flipped #info,
+.flipped #Orinfo,
+.flipped #Andinfo,
+.flipped #Xorinfo,
+.flipped #Wireinfo,
+.flipped #endinfo,
+.flipped #latchinfo {
+  visibility: hidden;
+}
+
+#led {
+  transform: translate3d(480%, -70%, 0);
+  transition: transform 0.3s ease;
+}
+
+#ledOr {
+  transform: translate3d(500%, -80%, 0);
+}
+
+#ledOr2 {
+  transform: translate3d(80%, -80%, 0) rotate(-20deg);
+}
+
+#ledAnd {
+  transform: translate3d(130%, -80%, 0) rotate(-20deg);
+}
+
+#ledAnd2 {
+  transform: translate3d(510%, -70%, 0) rotate(-20deg);
+}
+
+#ledXor {
+  transform: translate3d(470%, -100%, 0) rotate(-20deg);
+}
