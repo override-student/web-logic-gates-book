@@ -1,0 +1,25 @@
+.ButtonIA,
+.ButtonIB {
+  position: absolute;
+  border-radius: 9999px;
+  width: 70px;
+  height: 70px;
+  background: #2e2e36;
+  color: white;
+  box-shadow: 0 0 5px rgba(224, 199, 184, 0.89);
+  border: 3px solid #16161b;
+  font-family: "UnifrakturCook", "UnifrakturMaguntia", serif;
+}
+
+.ButtonIA {
+  transform: translate3d(-100%, 250px, 0);
+}
+
+.ButtonIB {
+  transform: translate3d(100%, 250px, 0);
+}
+
+.ButtonIA:hover,
+.ButtonIB:hover {
+  background: #16161b;
+}
